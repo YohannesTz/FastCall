@@ -1,14 +1,14 @@
 # FastCall
-simple android app with MVVM architecture to call people
+simple Android app with MVVM architecture to call people
 
-# technologies used
+# Technologies used
 
 - MVVM
 - Room for database
 - Dagger hilt for Dependency Injection
 - Splash screen api
 - View models
-- Croutines, flow and shared state flow 
+- Croutines, flow, and shared state flow 
 - Material 3 
 
 # License (MIT)
